@@ -90,6 +90,10 @@ Here are some ideas to get you started:
 </a>
 
 <!-- Frontend Frameworks/Libraries -->
+<a href="https://angular.dev" target="_blank">
+  <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white">
+</a>
+
 <a href="https://html.com" target="_blank">
   <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 </a>
